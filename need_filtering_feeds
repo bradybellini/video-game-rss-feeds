@@ -1,0 +1,9 @@
+Feeds that need some type of filtering
+
+category/tags = tags or categories that are included in the feed that can help filter out non-gaming content
+light = has a couple articles not gaming related
+heavy = does not have dedicated gaming feed and is mixed with other content
+
+https://www.fandom.com/feed - heavy - category 'games'
+https://www.polygon.com/rss/index.xml - light
+https://www.wired.com/feed/category/culture/latest/rss - heavy- category 'videogame'
